@@ -51,7 +51,7 @@ body {
 .header-title h1 {
     width: 100%;
     font-weight: 700;
-    font-size: 72px;
+    font-size: 64px;
     letter-spacing: -4px;
     line-height: 1.2em;
     text-align: center;
@@ -64,7 +64,7 @@ body {
     font-weight: 400;
     line-height: 1.4em;
     color: #615f5f;
-    border-bottom: 4px double #615f5f;
+    border-bottom: 1px solid #615f5f;
 }
 
 .prompt-container {
